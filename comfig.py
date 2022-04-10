@@ -3,8 +3,8 @@ API_ID = '13193029'
 API_HASH = '03bca249fdbe6824b1ca6d928a2e60ee'
 ADMIN_ID = [811906873]
 
-MOODLE_URL = 'https://moodle.uclv.edu.cu/'
-MOODLE_USER = 'amaguilar'
-MOODLE_PASSWORD = 'Al2+1425'
-PARTES_MB = 200
+MOODLE_URL = 'https://evea.uh.cu/'
+MOODLE_USER = 'laritzadejesus25'
+MOODLE_PASSWORD = 'Lary.8428'
+PARTES_MB = 150
 

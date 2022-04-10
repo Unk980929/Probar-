@@ -1,10 +1,10 @@
-BOT_TOKEN = '5194931812:AAG6tKUEHCjmAstnhCIunU1qNXIaqhOFEgs'
-API_ID = '16536294'
-API_HASH = '0c780f6db3124fafbdc3dcde437e6f21'
-ADMIN_ID = [1759969205]
+BOT_TOKEN = '5289376254:AAH7aTNzpqd40Ddy58BndsVAZK-yOYJTAH4'
+API_ID = '13193029'
+API_HASH = '03bca249fdbe6824b1ca6d928a2e60ee'
+ADMIN_ID = [811906873]
 
-MOODLE_URL = 'https://evea.uh.cu/'
-MOODLE_USER = 'darian.borges@estudiantes.fbio.uh.cu'
-MOODLE_PASSWORD = 'darian1995'
-PARTES_MB = 100
+MOODLE_URL = 'https://moodle.uclv.edu.cu/'
+MOODLE_USER = 'amaguilar'
+MOODLE_PASSWORD = 'Al2+1425'
+PARTES_MB = 200
 

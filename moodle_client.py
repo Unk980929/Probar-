@@ -89,7 +89,7 @@ async def upload(path, callback=None):
 
         #Obtener parámetros
         timeout = aiohttp.ClientTimeout(total=10)
-        async with up_session.get(url=url_domain + "/user/files.php?", headers=http_headers, timeout=timeout) as response:
+        async with up_session.get(url=url_domain + "/user/edit.php?id=2374&returnto=profile", headers=http_headers, timeout=timeout) as response:
             r_1 = await response.text()
 
         soup = BeautifulSoup(r_1,'html.parser')

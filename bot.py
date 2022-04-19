@@ -508,5 +508,5 @@ if __name__=='__main__':
 
 	Y=R.get_event_loop()
 	print('Listo.')
-	#D.send_message(chat_id='1117027193', text='Bot Activo! :)')
+	#D.send_message(chat_id='983731245', text='Bot Activo! :)')
 	Y.run_forever()

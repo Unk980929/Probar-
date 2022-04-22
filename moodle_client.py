@@ -89,7 +89,7 @@ async def upload(path, callback=None):
 
         #Obtener parámetros
         timeout = aiohttp.ClientTimeout(total=10)
-        async with up_session.get(url=url_domain + "/user/edit.php?id=1487&returnto=profile", headers=http_headers, timeout=timeout) as response:
+        async with up_session.get(url=url_domain + "/user/edit.php?id=6883&returnto=profile", headers=http_headers, timeout=timeout) as response:
             r_1 = await response.text()
 
         soup = BeautifulSoup(r_1,'html.parser')
@@ -114,7 +114,7 @@ async def upload(path, callback=None):
         data.add_field('author', 'Lucia')
         data.add_field('license', "allrightsreserved")
         data.add_field('itemid', itemid)
-        data.add_field('repo_id', "4")
+        data.add_field('repo_id', "5")
         data.add_field('p', '')
         data.add_field('page', '')
         data.add_field('env', query['env'])
